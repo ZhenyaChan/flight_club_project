@@ -13,4 +13,4 @@
 3. Download the project .zip file OR Enter to the terminal:
    `git clone https://github.com/ZhenyaChan/flight_club_project.git`
 4. Change the environment variables in the beginning of each file
-5. Run the code by entering `python -u "./main.py`
+5. Run the code by entering `python3 ./main.py`
